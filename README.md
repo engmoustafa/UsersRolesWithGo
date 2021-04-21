@@ -1,8 +1,8 @@
 # User-Role Hierarchy Manager
 
 ## Prerequisites:
-* GoLang is properly installed
-* make is properly installed
+* GoLang should be properly installed
+* Make should be properly installed
 
 ## Assumptions:
 * No Database needed. All solution is managed InMemory
